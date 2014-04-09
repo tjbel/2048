@@ -314,7 +314,7 @@ hr {
     font-size: 0px; }
   .tile.tile-2 .tile-inner {
     background: url('../tile-sets/FrozenTiles_disney.wikia.com/1.jpg');
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 1); }
   .tile.tile-4 .tile-inner {
     background: url('../tile-sets/FrozenTiles_disney.wikia.com/2.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
